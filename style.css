@@ -65,6 +65,11 @@ body {
     color: #fff;
 }
 
+#proj p {
+    font-size: 16px;
+    font-style: oblique;
+}
+
 #proj ul {
     list-style-type: none;
     display: flex;
