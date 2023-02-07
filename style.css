@@ -55,6 +55,7 @@ body {
     padding: 20px;
     display: flex;
     background-color: #212625;
+    border-radius: 20px;
     gap: 20px;
 }
 
