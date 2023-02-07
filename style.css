@@ -52,8 +52,9 @@ body {
 
 #proj {
     width: 70%;
+    padding: 20px;
     display: flex;
-    flex-direction: column;
+    background-color: #212625;
     gap: 20px;
 }
 
