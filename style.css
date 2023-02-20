@@ -56,6 +56,13 @@ body {
     height: 26px;
 }
 
+a {
+    color: #00aeff;
+    font-style: normal;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 #card #desc h1 {
     font-size: 23px;
     font-weight: 600;
